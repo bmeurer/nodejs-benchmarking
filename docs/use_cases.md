@@ -81,9 +81,9 @@ remotely is often a key requirement.
 Node.js is extensively used in all kinds of tools commonly used
 to build modern web pages, including but not limited to projects like
 [TypeScript](https://www.typescriptlang.org/), [webpack](http://webpack.js.org),
-[Babel](http://babeljs.io), [ESLint](http://eslint.org),
-[Mocha](https://mochajs.org). All these tools are built on top of Node.js and
-are crucial for the success of the modern web platform.
+[Babel](http://babeljs.io), [ESLint](http://eslint.org), and the
+[Chai Assertion Library](http://chaijs.com). All these tools are built on top
+of Node.js and are crucial for the success of the modern web platform.
 
 ## Small scripts
 
